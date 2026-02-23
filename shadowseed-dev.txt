@@ -1,6 +1,5 @@
 Bienvenid@ a mi repositorio :D
 
-# Shadowseed Dev
+# shadowseed-dev
 
-Cybersecurity Researcher from Mexico 🇲🇽  
-CTF Player | Linux | Red Teaming
+Has llegado al lugar correcto :p
